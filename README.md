@@ -57,8 +57,8 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 
 <div align="center">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=gotham&hide_border=true&locale=es" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=gotham&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Salvini&show_icons=true&theme=gotham&hide_border=true&locale=es" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Salvini&layout=compact&theme=gotham&hide_border=true&locale=es" alt="Lenguajes más usados" />
 </p>
 </div>
 
