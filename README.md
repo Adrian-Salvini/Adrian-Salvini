@@ -53,15 +53,16 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 📊 Actividad y Skills
 
 <div align="center">
-<p>
-  <img src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api?username=Adrian-Salvini&show_icons=true&theme=gotham&hide_border=true&locale=es" alt="Estadísticas de Adrian-Salvini" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api/top-langs/?username=Adrian-Salvini&layout=compact&theme=gotham&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrian-Salvini&theme=gotham&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,mysql,git,html,css,github,postman" />
 </div>
 
 ---
