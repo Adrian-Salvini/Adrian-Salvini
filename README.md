@@ -57,9 +57,10 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 
 <div align="center">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrian-Salvini&show_icons=true&theme=gotham&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Adrian-Salvini" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Salvini&layout=compact&theme=gotham&hide_border=true&locale=es" alt="Lenguajes más usados por Adrian-Salvini" />
+  <img src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api?username=Adrian-Salvini&show_icons=true&theme=gotham&hide_border=true&locale=es" alt="Estadísticas de Adrian-Salvini" />
+</p>
+<p>
+  <img src="https://github-readme-stats-git-masterhst-p-anuraghazra.vercel.app/api/top-langs/?username=Adrian-Salvini&layout=compact&theme=gotham&hide_border=true&locale=es" alt="Lenguajes más usados" />
 </p>
 </div>
 
