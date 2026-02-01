@@ -75,6 +75,8 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 <p>
 • [👔 LinkedIn] https://www.linkedin.com/in/adrian-salvini-42519133a/
 </p>
+<p>
 • [📧 Email] adriansalviniprogramador@gmail.com
+</p>
 
 </div>
