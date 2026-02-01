@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="URL_DE_TU_IMAGEN_LOGO_AQUI" width="100%" style="max-width: 800px;" alt="Banner de mi perfil" />
+
 # Hola, soy Adrián Gustavo Salvini 👋
 
 ### Desarrollador FullStack | Java & React | AI-Enhanced Workflows
@@ -45,7 +47,7 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 **Herramientas & Productividad**
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
