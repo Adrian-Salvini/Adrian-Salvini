@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="URL_DE_TU_IMAGEN_LOGO_AQUI" width="100%" style="max-width: 800px;" alt="Banner de mi perfil" />
+<img src="KirinScriptLogoGitHub.jpg" width="100%" style="max-width: 800px;" alt="Banner de mi perfil" />
 
 # Hola, soy Adrián Gustavo Salvini 👋
 
