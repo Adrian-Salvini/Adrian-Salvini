@@ -70,6 +70,8 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 
 ¿Buscas un desarrollador comprometido y resolutivo? ¡Hablemos!
 
-[🌐 Mi Portafolio Web] https://kirinscript.web.app • [👔 LinkedIn] https://www.linkedin.com/in/adrian-salvini-42519133a/ • [📧 Email] adriansalviniprogramador@gmail.com
+• [🌐 Mi Portafolio Web] https://kirinscript.web.app
+• [👔 LinkedIn] https://www.linkedin.com/in/adrian-salvini-42519133a/
+• [📧 Email] adriansalviniprogramador@gmail.com
 
 </div>
