@@ -76,7 +76,7 @@ Aquí están las tecnologías que utilizo para construir soluciones:
 • [🌐 Mi Portafolio Web] https://kirinscript.web.app
 </p>
 <p>
-• [👔 LinkedIn] https://www.linkedin.com/in/adrian-salvini-42519133a/
+• [👔 LinkedIn] www.linkedin.com/in/adriansalviniprogramador
 </p>
 <p>
 • [📧 Email] adriansalviniprogramador@gmail.com
